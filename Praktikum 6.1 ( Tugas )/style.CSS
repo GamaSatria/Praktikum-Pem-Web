@@ -1,0 +1,44 @@
+header {
+    background-color: burlywood;
+    padding: 10px;
+}
+body {
+    background-color: blanchedalmond;
+}
+.A1 {
+    font-size: 250%;
+    font-family: Arial;
+    text-align: center;
+    color: blue;
+}
+.A2 {
+    font-weight: bold;
+    font-size: 130%;
+    font-family: Arial;
+    text-align: center;
+    background-color: yellow;
+}
+
+.A3 {
+    font-family: Arial;
+    text-align: center;
+}
+.t2 ul li {
+    list-style-type: none;
+}
+
+p {
+    text-align: justify;
+}
+
+.A4 {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#G1 {
+    text-decoration: line-through;
+}
+
+#Z1 {
+    font-style: italic;
+}
